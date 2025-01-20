@@ -1,0 +1,14 @@
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\bin\Debug\net8.0\StormTheCastleGame.exe
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\bin\Debug\net8.0\StormTheCastleGame.deps.json
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\bin\Debug\net8.0\StormTheCastleGame.runtimeconfig.json
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\bin\Debug\net8.0\StormTheCastleGame.dll
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\bin\Debug\net8.0\StormTheCastleGame.pdb
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.AssemblyInfoInputs.cache
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.AssemblyInfo.cs
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.csproj.CoreCompileInputs.cache
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.dll
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\refint\StormTheCastleGame.dll
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.pdb
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\StormTheCastleGame.genruntimeconfig.cache
+C:\Users\dspel\source\repos\StormTheCastleGame\StormTheCastleGame\obj\Debug\net8.0\ref\StormTheCastleGame.dll
